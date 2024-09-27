@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('这是第二个版本，改了很多东西')
+    print("这是从第一个版本，更新了main文件")
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
